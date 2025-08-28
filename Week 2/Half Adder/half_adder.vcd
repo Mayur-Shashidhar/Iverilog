@@ -1,0 +1,48 @@
+$date
+	Wed Aug 20 16:33:02 2025
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module tb_half_adder $end
+$var wire 1 ! S $end
+$var wire 1 " C $end
+$var reg 1 # A $end
+$var reg 1 $ B $end
+$scope module uut $end
+$var wire 1 # A $end
+$var wire 1 $ B $end
+$var wire 1 " C $end
+$var wire 1 ! S $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+x$
+x#
+x"
+x!
+$end
+#10000
+0!
+0"
+0$
+0#
+#20000
+1!
+1$
+#30000
+0$
+1#
+#40000
+0!
+1"
+1$
+#50000
