@@ -1,6 +1,6 @@
 # Iverilog
 
-[![Repository](https://img.shields.io/badge/GitHub-Iverilog-blue?logo=github)](https://github.com/Mayur-Shashidhar/Iverilog)
+<img src="https://img.shields.io/badge/Verilog-FF0000?style=for-the-badge&logo=semiconductor-manufacturing&logoColor=white" alt="Verilog"/>
 
 Welcome to **Iverilog**!  
 This repository contains Verilog source code and projects. It is intended for learning, experimenting, and demonstrating digital design concepts using Verilog HDL.
