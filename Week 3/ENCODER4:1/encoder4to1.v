@@ -1,4 +1,5 @@
-module encoder4to2 (
+module encoder4to1
+ (
     input  wire [3:0] din, 
     output reg  [1:0] y     
 );
