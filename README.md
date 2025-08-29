@@ -34,8 +34,6 @@ To start using the code in this repository:
    ```sh
    gtkwave dumpfile_name.vcd
 
-
-
 ## Contributing
 
 Contributions are welcome!  
