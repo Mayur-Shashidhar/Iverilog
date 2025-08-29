@@ -28,9 +28,15 @@ To start using the code in this repository:
 3. **Simulate the code**  
    You can use the open-source [Icarus Verilog](http://iverilog.icarus.com/) simulator to run and test the Verilog modules:
    ```sh
-   iverilog -o output_file *.v
+   iverilog -o output_file input_file1.v inputfile2.v ....
    vvp output_file
-   ```
+   '''
+
+4. **GTKWAVE can be generated**
+   ```sh
+   gtkwave dumpfile_name.vcd
+   '''
+
 
 ## Contributing
 
