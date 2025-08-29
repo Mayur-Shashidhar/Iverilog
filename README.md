@@ -20,7 +20,6 @@ To start using the code in this repository:
    ```sh
    git clone https://github.com/Mayur-Shashidhar/Iverilog.git
    cd Iverilog
-   ```
 
 2. **Explore the source files**  
    All Verilog files are located in the root directory. You can open and edit them with your favorite text editor.
@@ -30,12 +29,11 @@ To start using the code in this repository:
    ```sh
    iverilog -o output_file input_file1.v inputfile2.v ....
    vvp output_file
-   '''
 
 4. **GTKWAVE can be generated**
    ```sh
    gtkwave dumpfile_name.vcd
-   '''
+
 
 
 ## Contributing
